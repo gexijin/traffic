@@ -1,0 +1,12 @@
+name: shinydemo
+title: shinydemo
+username: bioge
+account: bioge
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10249915
+bundleId: 7825697
+url: https://bioge.shinyapps.io/shinydemo/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
